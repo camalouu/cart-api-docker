@@ -1,7 +1,10 @@
+#folders which are not required to deploy
 /node_modules
 /dist
 /.git
 /test
+
+#other files 
 .eslintrc.js
 .gitignore
 .prettierrc
